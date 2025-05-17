@@ -1,0 +1,11 @@
+Package: dhsUtils
+Type: Package
+Title: Utilities for Working with DHS Survey Data
+Version: 0.0.1
+Author: DrPax
+Maintainer: DrPax <your_email@example.com>
+Description: A package of functions to simplify data import, recoding, and descriptive analysis for DHS survey datasets.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
